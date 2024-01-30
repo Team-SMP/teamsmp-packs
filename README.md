@@ -9,7 +9,8 @@ This list will expand after more versions are added.
 
 ## General Info
 The resoure packs that have been merged are:
-* [Nautical Ranks](https://github.com/DeathEnderMan/Nautical-Ranks) on GitHub — for BetterRanks-style rank textures
+* [Nautical Ranks](https://github.com/DeathEnderMan/Nautical-Ranks) on GitHub — for BetterRanks-style rank textures (slightly modified)
 * [Bare Bones](https://modrinth.com/resourcepack/bare-bones) on Modrinth — for a trailer-like look
+* And the Team SMP proprietairy custom resources
 
 The list will, once again, grow as more packs are added.
