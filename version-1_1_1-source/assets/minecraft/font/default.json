@@ -1,0 +1,193 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	},
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/builder.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/captain.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/commandor.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/deckhand.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/dev.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/head.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/helper.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/helperplus.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/legend.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/manager.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mariner.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/media.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/merchant.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/moderator.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/navigator.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/noble.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/offiicial.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/owner.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/pharoah.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/player.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/prophet.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/srmod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/sussy.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/twitch.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/youtube.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        }
+    ]
+}
