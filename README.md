@@ -1,4 +1,9 @@
 # Team SMP Resource Packs
+
+![Latest Release](https://img.shields.io/github/v/release/Team-SMP/teamsmp-packs?logo=github&label=latest%20release)
+![GitHub Repo stars](https://img.shields.io/github/stars/Team-SMP/teamsmp-packs?style=flat&logo=github)
+![GitHub watchers](https://img.shields.io/github/watchers/Team-SMP/teamsmp-packs?style=flat&logo=github)
+
 This repo contains all of the Team SMP's resource packs.
 
 ## SHA-1 Verification
