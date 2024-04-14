@@ -2,192 +2,227 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/admin.png",
+            "file": "minecraft:ranks/adminbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
 	},
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/builder.png",
+            "file": "minecraft:ranks/bluebyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/captain.png",
+            "file": "minecraft:ranks/builderbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/commandor.png",
+            "file": "minecraft:ranks/designerbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/deckhand.png",
+            "file": "minecraft:ranks/devbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/dev.png",
+            "file": "minecraft:ranks/devlbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/head.png",
+            "file": "minecraft:ranks/donatorbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/helper.png",
+            "file": "minecraft:ranks/elitebyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/helperplus.png",
+            "file": "minecraft:ranks/eliteplusbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/legend.png",
+            "file": "minecraft:ranks/eventsbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/manager.png",
+            "file": "minecraft:ranks/godbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/mariner.png",
+            "file": "minecraft:ranks/greenbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/media.png",
+            "file": "minecraft:ranks/helperbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/merchant.png",
+            "file": "minecraft:ranks/managerbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/mod.png",
+            "file": "minecraft:ranks/mediabyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/moderator.png",
+            "file": "minecraft:ranks/modbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/navigator.png",
+            "file": "minecraft:ranks/modlbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/noble.png",
+            "file": "minecraft:ranks/mvpbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/offiicial.png",
+            "file": "minecraft:ranks/mvpplusbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/owner.png",
+            "file": "minecraft:ranks/mvpplusplusbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/pharoah.png",
+            "file": "minecraft:ranks/noobbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/player.png",
+            "file": "minecraft:ranks/ogbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/prophet.png",
+            "file": "minecraft:ranks/ownerbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/srmod.png",
+            "file": "minecraft:ranks/probyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/sussy.png",
+            "file": "minecraft:ranks/redbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/twitch.png",
+            "file": "minecraft:ranks/tiktokbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/youtube.png",
+            "file": "minecraft:ranks/twitchbyrg.png",
             "ascent": 8,
             "height": 8,
-            "chars": [""]
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vipbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vipplusbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/yellowbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/youtubebyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/memberbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
         }
     ]
 }
